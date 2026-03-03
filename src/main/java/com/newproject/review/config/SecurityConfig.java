@@ -26,7 +26,7 @@ public class SecurityConfig {
             .authorizeHttpRequests(auth -> auth
                 .requestMatchers(HttpMethod.GET, "/actuator/health", "/actuator/info").permitAll()
                 .requestMatchers(HttpMethod.GET, "/api/catalog/products/*/reviews").permitAll()
-                .requestMatchers(HttpMethod.POST, "/api/catalog/products/*/reviews").hasAnyRole("ADMIN", "USER")
+                .requestMatchers(HttpMethod.POST, "/api/catalog/products/*/reviews").authenticated()
                 .requestMatchers(HttpMethod.GET, "/api/catalog/reviews/**").hasRole("ADMIN")
                 .requestMatchers(HttpMethod.PATCH, "/api/catalog/reviews/**").hasRole("ADMIN")
                 .anyRequest().authenticated()
