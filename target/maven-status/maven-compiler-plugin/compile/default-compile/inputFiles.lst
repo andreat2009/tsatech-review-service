@@ -1,0 +1,14 @@
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/ReviewServiceApplication.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/config/SecurityConfig.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/controller/ProductReviewController.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/domain/ProductReview.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/dto/ProductReviewRequest.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/dto/ProductReviewResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/error/ApiErrorResponse.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/error/GlobalApiExceptionHandler.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/events/DomainEvent.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/events/EventPublisher.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/exception/BadRequestException.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/exception/NotFoundException.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/repository/ProductReviewRepository.java
+/Users/andreaterrasi/Desktop/sviluppo/workspace_claudecode/kerosstudio/ecommerce/review-service/src/main/java/com/newproject/review/service/ProductReviewService.java
